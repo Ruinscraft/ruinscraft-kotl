@@ -2,5 +2,6 @@ main: ${mainClass}
 name: ${name}
 version: ${version}
 api-version: 1.13
+depend: [WorldEdit, WorldGuard]
 commands:
   kotl:
